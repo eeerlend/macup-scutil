@@ -1,6 +1,6 @@
 # macup-scutil
 
-A [macup](https://github.com/eeerlend/macup) module that sets computer name and host name on with help of `scutil`.
+A [macup](https://github.com/eeerlend/macup-builder) module that sets computer name and host name on with help of `scutil`.
 
 ## Installation
 Run the following command to add it to your repo
